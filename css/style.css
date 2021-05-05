@@ -1,0 +1,29 @@
+body{
+    background: white;
+    color: black;
+}
+
+h1 {
+    color:midnightblue;
+    font-weight: normal;
+    font-size: calc(1em + 1vw);
+    text-transform: uppercase;
+    text-align: center;
+  }
+
+.linkActivo{
+    text-align:center;
+    color:midnightblue;
+    font-weight: bold;
+}
+
+.nav-link {
+  cursor: pointer;
+}
+
+.contactarClase {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5%;
+}
